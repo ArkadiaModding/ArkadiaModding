@@ -11,7 +11,7 @@
     No harassment or discrimination.
   </p>
   <p>
-  1. Be the better person.<br>
+  2. Be the better person.<br>
   If someone is disrespecting you, please contact us instead of reciprocating it, if you do, it won't lead to removal but it doesn't look good for anyone.
   </p>
 <hr>
