@@ -1,7 +1,8 @@
 <p align="center">
-  Arkadia Modding is a solo project, but Contributions are welcome, as long as you follow the code of conduct.
+  Arkadia Modding is not a team, but instead a solo project, that you can help with
 </p>
 
+<p align="center">To help, you must follow the</p>
 <h1 align="center">Code of Conduct</h1>
 
 <p align="left">
