@@ -7,8 +7,12 @@
 
 <p align="left">
   <p>
-    2. Be respectful.<br>
+    1. Be respectful.<br>
     No harassment or discrimination.
+  </p>
+  <p>
+  1. Be the better person.<br>
+  If someone is disrespecting you, please contect us instead of reciprocating it, if you do, it won't lead to removal but it doesn't look good for anyone.
   </p>
 <hr>
 <p align="center">Thank you for your time and understanding.</p>
